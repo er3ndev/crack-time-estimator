@@ -25,7 +25,7 @@ A Python tool that estimates how long it would take government agencies like the
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/crack-time-estimator.git
+git clone https://github.com/er3ndev/crack-time-estimator.git
 cd crack-time-estimator
 python password.py
 ```
